@@ -1,14 +1,21 @@
+IMAGE_SCALE = 2.5;
+MAX_GRAV = 10;
+HERO_LANDING_DISTANCE = 300;
+FALL_IGNORE_DISTANCE = 1;
+
 friction = 0.5;
+image_xscale = IMAGE_SCALE;
+image_yscale = IMAGE_SCALE;
 
-GRAVITY = 1.25;
-MAX_MOVEMNT_SPEED = 7.5;
-JUMP_SPEED = 30;
-
-hVelocity = 1;
 isJumping = false;
-image_xscale = 1.5;
-image_yscale = 1.5;
-gravity = GRAVITY;
+lookingLeft = false;
+fallingBegginingY = -1;
+heroLanding = false;
+grav = 0.5;
+hsp = 0;
+vsp = 0;
+jumpspeed = 14;
+movespeed = 8;
 lasDir = 0;
 reload = 16;
 cooldown = 0;
