@@ -1,3 +1,5 @@
+cooldown -= 1;
+
 // As long as were not in idle hero landing animation
 if (!heroLanding) {
 	var key_right = keyboard_check(ord("D"));

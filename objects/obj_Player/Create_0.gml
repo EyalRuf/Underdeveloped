@@ -16,3 +16,6 @@ hsp = 0;
 vsp = 0;
 jumpspeed = 14;
 movespeed = 8;
+lasDir = 0;
+reload = 16;
+cooldown = 0;

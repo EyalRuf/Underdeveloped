@@ -9,10 +9,8 @@
         "290bb9a5-38e2-4e60-9e78-01481954d3ab",
         "f7660d0c-d37c-42bf-8bdb-df11041f1a87",
         "ec1620f8-9ed2-466c-a173-faee80e9ce93",
-        "cf936b11-0bd7-4486-b7fd-b4031edb5286"
     ],
     "filterType": "GMSprite",
     "folderName": "sprites",
-    "isDefaultView": false,
     "localisedFolderName": "ResourceTree_Sprites"
 }
