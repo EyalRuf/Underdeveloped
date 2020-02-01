@@ -71,6 +71,14 @@
             }
         },
         {
+            "Key": "05ceb712-ce12-40e5-8900-973899648be7",
+            "Value": {
+                "id": "f9ab5d56-fe3e-4c00-a8f3-5cb6a45391fe",
+                "resourcePath": "rooms\\NEON7\\NEON7.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "06a8c46e-8c3e-47ec-96ba-ca4ae7480c35",
             "Value": {
                 "id": "6ab62a11-ed6d-4f9d-895b-2cdbef0d3562",
@@ -79,18 +87,58 @@
             }
         },
         {
-            "Key": "09da657e-abc5-4dc5-95d8-946fb98dbb1b",
+            "Key": "08a70fb6-13c8-40e7-985b-e4cb64feb4bb",
             "Value": {
-                "id": "921da181-354c-4df8-ae86-e36b90512e4e",
+                "id": "1061adc1-3606-4c21-b153-ba661a4da0d8",
+                "resourcePath": "sprites\\spr_bg_lvl33\\spr_bg_lvl33.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "0ce47ad7-4921-4a0e-a978-42e12d065964",
+            "Value": {
+                "id": "977cf340-5dbe-4b6a-b06a-dd4802ebd547",
+                "resourcePath": "rooms\\NEON10\\NEON10.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "11eaaf24-2456-4b98-84a0-f1cd2f5fdc32",
+            "Value": {
+                "id": "c6136e1c-d934-4daf-99cd-af3e8ab7cdaa",
                 "resourcePath": "rooms\\NEON13\\NEON13.yy",
                 "resourceType": "GMRoom"
             }
         },
         {
-            "Key": "1f0e6a01-89c1-4082-afd9-e70e0f449b36",
+            "Key": "17ebf548-7a74-4bc7-b514-6c7b3ae5bb1c",
             "Value": {
-                "id": "bc44d11e-33cb-4c52-894a-ae2d540937ce",
-                "resourcePath": "rooms\\NEON5\\NEON5.yy",
+                "id": "b7afa68b-d23f-4a69-829b-55dd1778e53c",
+                "resourcePath": "views\\17ebf548-7a74-4bc7-b514-6c7b3ae5bb1c.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "1bb32a0e-c24c-4c83-8660-ac745a1e9441",
+            "Value": {
+                "id": "478e16b8-19b2-445b-95a5-997f236ab09f",
+                "resourcePath": "rooms\\NEON9\\NEON9.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "1c29fa88-1b6b-4a6b-a39d-0d3cf2e16175",
+            "Value": {
+                "id": "0db2eeef-8bb7-4b64-ae46-0cb900dede5f",
+                "resourcePath": "scripts\\spawn_enemies\\spawn_enemies.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "1c779750-7b3d-47dc-a4a3-7b46410c6e04",
+            "Value": {
+                "id": "0903a346-08f5-4eb8-b02d-66a698321d89",
+                "resourcePath": "rooms\\UPGRADE\\UPGRADE.yy",
                 "resourceType": "GMRoom"
             }
         },
@@ -111,19 +159,19 @@
             }
         },
         {
+            "Key": "2aed01b2-3af1-417f-8e90-8deb50e9517d",
+            "Value": {
+                "id": "026c6591-d1bd-45e2-af41-6591e3c6c95e",
+                "resourcePath": "rooms\\NEON12\\NEON12.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "2d118256-86ad-4964-b55a-3552967b08fb",
             "Value": {
                 "id": "0cfd165c-f894-4df1-ae9e-66b9f12d5e8f",
                 "resourcePath": "sprites\\spr_Laser\\spr_Laser.yy",
                 "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "2f065cb1-2678-4016-b948-9bfc8452d361",
-            "Value": {
-                "id": "37272a98-80f9-462a-b057-cbd4efd07947",
-                "resourcePath": "rooms\\NEON3\\NEON3.yy",
-                "resourceType": "GMRoom"
             }
         },
         {
@@ -135,6 +183,14 @@
             }
         },
         {
+            "Key": "30f72568-cbf7-4e82-b27b-365f81f41406",
+            "Value": {
+                "id": "e55e5893-1650-4876-999c-87ab3393d7e0",
+                "resourcePath": "rooms\\NEON5\\NEON5.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "31d91aae-77b4-4387-b3ac-0b4e83dacd9e",
             "Value": {
                 "id": "38bcf9ce-7ae1-4ab1-8b82-8b6eb5280c88",
@@ -143,19 +199,19 @@
             }
         },
         {
-            "Key": "35cdb72e-95d4-4475-aaf2-c9a218712601",
+            "Key": "3298b791-f14a-4acf-8067-2e24b1c66ae4",
             "Value": {
-                "id": "3bfbb43f-340b-4cac-9385-25a7bdfeeea4",
-                "resourcePath": "rooms\\NEON14\\NEON14.yy",
-                "resourceType": "GMRoom"
+                "id": "4c19b4c5-6511-4ba5-bbaa-4e1bbd098a53",
+                "resourcePath": "sprites\\spr_bg_lvl32\\spr_bg_lvl32.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
-            "Key": "3672f74f-0450-4f36-86b0-3eafedc0b992",
+            "Key": "33c85270-fc9e-45e5-885f-9e91a5dd8d4a",
             "Value": {
-                "id": "a9157dc5-6b98-4397-a66e-6f63ac986463",
-                "resourcePath": "rooms\\NEON11\\NEON11.yy",
-                "resourceType": "GMRoom"
+                "id": "7e0720de-0d75-4c75-91cb-911a456d2af1",
+                "resourcePath": "sprites\\spr_bg_lvl21\\spr_bg_lvl21.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -175,10 +231,18 @@
             }
         },
         {
-            "Key": "429f304b-7537-436c-ab05-7b3c4bdec3c9",
+            "Key": "44387ada-cf08-4133-b5fe-d5cbabb918a9",
             "Value": {
-                "id": "2052af65-ebb3-4706-bee7-4b7a3329cc05",
-                "resourcePath": "rooms\\BOSS\\BOSS.yy",
+                "id": "43dc5a5f-9aa1-45f8-9f15-9e1874622ea0",
+                "resourcePath": "rooms\\NEON6\\NEON6.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "451b6952-da55-4a85-a268-5eeff884e988",
+            "Value": {
+                "id": "c3583fe0-f64f-408a-9b1c-d20f6d715a47",
+                "resourcePath": "rooms\\NEON11\\NEON11.yy",
                 "resourceType": "GMRoom"
             }
         },
@@ -231,10 +295,18 @@
             }
         },
         {
-            "Key": "5d97c3c6-fac1-44cf-9234-c7e1400cff8c",
+            "Key": "5d843be4-f4df-465a-8e05-120169f6a7c1",
             "Value": {
-                "id": "0bc014f0-a20d-4e95-a0ed-76c6d4c34c91",
-                "resourcePath": "rooms\\NEON25\\NEON25.yy",
+                "id": "a8cd066e-c1a4-45a8-a7d0-b48713b76796",
+                "resourcePath": "rooms\\NEON3\\NEON3.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "5df50a62-d9a7-404a-8673-c5aecda360af",
+            "Value": {
+                "id": "bb5f22cc-db95-4c94-a37a-6c0cadd1d0a0",
+                "resourcePath": "rooms\\NEON14\\NEON14.yy",
                 "resourceType": "GMRoom"
             }
         },
@@ -279,18 +351,18 @@
             }
         },
         {
-            "Key": "6525f10f-054d-481b-885b-682ed0e2e8cb",
-            "Value": {
-                "id": "431ac99b-78c7-4493-931e-8ab91afe60c0",
-                "resourcePath": "rooms\\NEON12\\NEON12.yy",
-                "resourceType": "GMRoom"
-            }
-        },
-        {
             "Key": "657f7d98-8c16-47ec-981c-86c6f32c3b2c",
             "Value": {
                 "id": "bc6b067d-d5e3-4997-abb4-da6379ae5f34",
                 "resourcePath": "sprites\\spr_Platform3\\spr_Platform3.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "66111fc4-d9b0-4969-b871-0e85ab3eb826",
+            "Value": {
+                "id": "78fad831-7434-4e41-99cb-dc994f3b7a84",
+                "resourcePath": "sprites\\spr_bg_lvl22\\spr_bg_lvl22.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -343,11 +415,27 @@
             }
         },
         {
+            "Key": "747f4f71-b47e-42c0-835f-ebb3b0d0de96",
+            "Value": {
+                "id": "c6262d7a-3426-4d4c-ba01-67b49e32b71e",
+                "resourcePath": "sprites\\spr_bg_lvl12\\spr_bg_lvl12.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "74caed4a-7c23-47a7-9857-cbac961d00bd",
             "Value": {
                 "id": "a8c036ac-1a74-4068-a3be-ae4dcf05748b",
                 "resourcePath": "objects\\obj_Player\\obj_Player.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "77969cac-aac0-4e17-8adb-d2c1bd9ed5eb",
+            "Value": {
+                "id": "f4cd5dc8-e503-4924-a4cd-7ae0fe80a11c",
+                "resourcePath": "rooms\\NEON2\\NEON2.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
@@ -367,19 +455,27 @@
             }
         },
         {
+            "Key": "78a80223-bd8e-43ff-870e-200a56bc4eb0",
+            "Value": {
+                "id": "c3e664a1-605d-4cfa-9dbd-9e26929f5202",
+                "resourcePath": "sprites\\spr_bg_lvl11\\spr_bg_lvl11.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "7983c18a-dc62-4de7-9830-a2ac25cd24fb",
+            "Value": {
+                "id": "b46204c0-2fb5-4813-be76-fca7f3f4578f",
+                "resourcePath": "objects\\obj_Spawner\\obj_Spawner.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "7b37dd37-8ab1-4a7d-8881-7ed262d6840d",
             "Value": {
                 "id": "bc8213ee-106f-4b34-a2d0-d10c46faac46",
                 "resourcePath": "views\\7b37dd37-8ab1-4a7d-8881-7ed262d6840d.yy",
                 "resourceType": "GMFolder"
-            }
-        },
-        {
-            "Key": "7bc441c7-ecdb-428f-9901-36c45a745a78",
-            "Value": {
-                "id": "4c0ffa78-35c4-47f4-a006-4eefd52adbeb",
-                "resourcePath": "rooms\\NEON15\\NEON15.yy",
-                "resourceType": "GMRoom"
             }
         },
         {
@@ -431,10 +527,18 @@
             }
         },
         {
-            "Key": "96e0cb32-dbfc-4127-9f00-62e617f32854",
+            "Key": "943327af-806c-4712-a051-d1a7bcc3dbc3",
             "Value": {
-                "id": "1922e3ff-03c9-4f76-bed5-f4d4d7727488",
-                "resourcePath": "rooms\\NEON2\\NEON2.yy",
+                "id": "a2b2ebf7-1eaa-403c-94d1-81ea5ced78b8",
+                "resourcePath": "sprites\\spr_bg_lvl23\\spr_bg_lvl23.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "95fd2927-ae02-42c9-b9ba-668ee14daad8",
+            "Value": {
+                "id": "5799240e-8391-44e1-a155-f7b9f4fb50e4",
+                "resourcePath": "rooms\\NEON15\\NEON15.yy",
                 "resourceType": "GMRoom"
             }
         },
@@ -463,14 +567,6 @@
             }
         },
         {
-            "Key": "9c1083f4-e08a-497c-9d4d-c23c6588ef71",
-            "Value": {
-                "id": "be68cafe-a88a-4e2c-9b38-23b173d40084",
-                "resourcePath": "rooms\\NEON\\NEON.yy",
-                "resourceType": "GMRoom"
-            }
-        },
-        {
             "Key": "a22c5135-ac44-499e-929a-bcf4093ae27c",
             "Value": {
                 "id": "03783ea3-7a4e-426b-ab90-3613356f807d",
@@ -484,6 +580,14 @@
                 "id": "4eede22c-6df5-41a7-b8c7-a4e8fd50c8e9",
                 "resourcePath": "sprites\\exit2\\exit2.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "a42971be-4294-459e-bed5-73cad06b8f40",
+            "Value": {
+                "id": "649f86c6-cd6c-43d8-9f6a-3f82e00d730d",
+                "resourcePath": "rooms\\NEON4\\NEON4.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
@@ -524,6 +628,22 @@
                 "id": "329d913b-2ee2-4dab-b8d2-e52f937fa11b",
                 "resourcePath": "views\\b1c4be59-a604-487b-8f81-457fe2ad1421.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "b5b7e25b-d48f-4112-9701-1d3e9336cb76",
+            "Value": {
+                "id": "e169529f-f82a-4456-8be7-da6430de8c11",
+                "resourcePath": "rooms\\NEON8\\NEON8.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "b6cc2661-11d2-431d-b924-16c469031efe",
+            "Value": {
+                "id": "85019817-4845-4ca0-8ed3-0c61cf9f3367",
+                "resourcePath": "sprites\\spr_bg_lvl13\\spr_bg_lvl13.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -575,27 +695,19 @@
             }
         },
         {
-            "Key": "c9eb2bbd-ef67-4fb2-8b13-e1ca8a95a02a",
-            "Value": {
-                "id": "498f3abf-455f-431f-aa7d-891f1a3197b8",
-                "resourcePath": "rooms\\NEON4\\NEON4.yy",
-                "resourceType": "GMRoom"
-            }
-        },
-        {
-            "Key": "cad4349e-2956-4af3-af03-6d6308978c5d",
-            "Value": {
-                "id": "429a1fdb-4471-4344-9056-4acd1dff8792",
-                "resourcePath": "rooms\\NEON21\\NEON21.yy",
-                "resourceType": "GMRoom"
-            }
-        },
-        {
             "Key": "cc98d028-7bdd-4680-85f3-c87a7baa481e",
             "Value": {
                 "id": "4646b33b-09cf-471f-81e4-9b9f80373f34",
                 "resourcePath": "options\\windows\\options_windows.yy",
                 "resourceType": "GMWindowsOptions"
+            }
+        },
+        {
+            "Key": "ccbc1165-3ccc-4d9b-996d-f30bb1c5127f",
+            "Value": {
+                "id": "c7b6e961-aa6a-4feb-878b-3d741668fb6a",
+                "resourcePath": "sprites\\spr_bg_lvl31\\spr_bg_lvl31.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -615,35 +727,11 @@
             }
         },
         {
-            "Key": "d0a448a9-10db-43b9-ab86-b0a57c6f86c7",
-            "Value": {
-                "id": "6df6f95f-69da-4b56-9a34-443c3f8a1a1c",
-                "resourcePath": "rooms\\NEON23\\NEON23.yy",
-                "resourceType": "GMRoom"
-            }
-        },
-        {
             "Key": "d12e1b20-562d-4a33-96cd-97818799239a",
             "Value": {
                 "id": "aa516e37-efdb-468f-bfca-045eb1e3bd32",
                 "resourcePath": "sprites\\spr_RatLevel1\\spr_RatLevel1.yy",
                 "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "d183d811-0137-4d9e-bdb5-d47e86137d03",
-            "Value": {
-                "id": "c5236d0a-d0d0-42e5-85d7-af0f4278b711",
-                "resourcePath": "rooms\\NEON24\\NEON24.yy",
-                "resourceType": "GMRoom"
-            }
-        },
-        {
-            "Key": "d2d2c511-44d2-4943-bb4c-bdd187df6cd8",
-            "Value": {
-                "id": "bd9d89ab-4fe1-4976-a91e-bdafbcc4aa9d",
-                "resourcePath": "rooms\\UPGRADE\\UPGRADE.yy",
-                "resourceType": "GMRoom"
             }
         },
         {
@@ -692,14 +780,6 @@
                 "id": "b2e392bb-23af-4bac-8f61-516d16e4c2b6",
                 "resourcePath": "sprites\\spr_BatLevel1\\spr_BatLevel1.yy",
                 "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "dbe0b68a-7c32-4d7a-a235-0569d972a873",
-            "Value": {
-                "id": "c89c7c32-ad04-4717-923e-1e5ba3669bcc",
-                "resourcePath": "rooms\\NEON22\\NEON22.yy",
-                "resourceType": "GMRoom"
             }
         },
         {
@@ -840,7 +920,8 @@
         }
     ],
     "script_order": [
-        "06a8c46e-8c3e-47ec-96ba-ca4ae7480c35"
+        "06a8c46e-8c3e-47ec-96ba-ca4ae7480c35",
+        "1c29fa88-1b6b-4a6b-a39d-0d3cf2e16175"
     ],
     "tutorial": ""
 }
