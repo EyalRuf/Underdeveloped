@@ -9,11 +9,9 @@ if (hspeed < MAX_MOVEMNT_SPEED && hspeed > -MAX_MOVEMNT_SPEED) {
 }
 
 // Gravity
-if (!place_meeting(x, y + vspeed, obj_Ground)) {
-	if (vspeed < MAX_GRAVITY) {
-		vspeed++;
-	}
-} else {
+if (place_meeting(x, y, obj_Ground)) {
+	while(place_meeting(x, y, obj_Ground)) y--;
 	vspeed = 0;
 	isJumping = false;
+	gravity = 0;
 }

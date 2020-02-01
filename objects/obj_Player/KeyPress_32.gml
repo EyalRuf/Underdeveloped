@@ -1,4 +1,5 @@
 if (!isJumping) {
 	isJumping = true;
-	vspeed = -20;
+	vspeed = -JUMP_SPEED;
+	gravity = 1.5;
 }
