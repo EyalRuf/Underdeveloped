@@ -1,20 +1,14 @@
-// Horizontal input
-if (hspeed < MAX_MOVEMNT_SPEED && hspeed > -MAX_MOVEMNT_SPEED) {
-	if (keyboard_check(vk_right)) {
-		hspeed += hVelocity;
-	} 
-	if (keyboard_check(vk_left)) {
-		hspeed -= hVelocity;
-	}
-}
 if (place_meeting(x + hspeed, y - 1, obj_collidable)) {
+	while (!place_meeting(x + hspeed, y - 1, obj_collidable)) x += sign(hspeed);
 	hspeed = 0;
 }
 
 // Gravity
 if (place_meeting(x, y + vspeed, obj_collidable)) {
+	while (!place_meeting(x, y + vspeed, obj_collidable)) y += sign(vspeed);
 	vspeed = 0;
 	isJumping = false;
 	gravity = 0;
+} else {
+	gravity = GRAVITY;
 }
-

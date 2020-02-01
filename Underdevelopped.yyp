@@ -95,6 +95,14 @@
             }
         },
         {
+            "Key": "67d7a0ff-6117-46e5-80f1-b07fa4c5cc99",
+            "Value": {
+                "id": "9ad4d6f0-7428-4e08-b2a7-be8f19b199c4",
+                "resourcePath": "objects\\obj_WallsV\\obj_WallsV.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "6a50e657-74e1-4f41-9bd3-4544c541fcab",
             "Value": {
                 "id": "d77bff1b-5c3c-412c-8dc3-bde9e75583f9",
@@ -145,9 +153,17 @@
         {
             "Key": "9c1083f4-e08a-497c-9d4d-c23c6588ef71",
             "Value": {
-                "id": "6ab483fb-6e23-4cd3-8a3b-1d7b83950c60",
+                "id": "be68cafe-a88a-4e2c-9b38-23b173d40084",
                 "resourcePath": "rooms\\NEON\\NEON.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "a22c5135-ac44-499e-929a-bcf4093ae27c",
+            "Value": {
+                "id": "03783ea3-7a4e-426b-ab90-3613356f807d",
+                "resourcePath": "objects\\obj_WallsH\\obj_WallsH.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -179,6 +195,14 @@
             "Value": {
                 "id": "55f2dab6-a688-458b-96e6-bd2545801a2e",
                 "resourcePath": "views\\c35e2a8c-b355-446c-92bc-bc88efc68579.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "c44fce9c-4772-48be-8052-ee0fd5a68e3e",
+            "Value": {
+                "id": "d3253d09-2690-4c0c-a5c0-b5ddfe3e9c3a",
+                "resourcePath": "views\\c44fce9c-4772-48be-8052-ee0fd5a68e3e.yy",
                 "resourceType": "GMFolder"
             }
         },
