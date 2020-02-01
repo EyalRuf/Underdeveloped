@@ -12,3 +12,4 @@ if (place_meeting(x, y + vspeed, obj_collidable)) {
 } else {
 	gravity = GRAVITY;
 }
+cooldown -= 1;

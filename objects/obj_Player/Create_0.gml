@@ -9,3 +9,6 @@ isJumping = false;
 image_xscale = 1.5;
 image_yscale = 1.5;
 gravity = GRAVITY;
+lasDir = 0;
+reload = 16;
+cooldown = 0;
