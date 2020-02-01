@@ -22,7 +22,7 @@ reload = 16;
 cooldown = 0;
 
 // Sprite initialization
-switch(obj_GameManager.artLvl) {
+switch(global.artLvl) {
 	case (0) : {
 		jumpSprite = lvl1JumpSprite;
 		landSprite = lvl1LandSprite;
