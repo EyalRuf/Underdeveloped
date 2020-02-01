@@ -1,3 +1,3 @@
 if (hspeed < MAX_MOVEMNT_SPEED) {
-		hspeed += hVelocity;
+	hspeed += hVelocity;
 }
