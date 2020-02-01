@@ -1,3 +1,5 @@
-if (hspeed > -MAX_MOVEMNT_SPEED) {
+if (!heroLanding && hspeed > -MAX_MOVEMNT_SPEED) {
 	hspeed -= hVelocity;
 }
+
+lookingLeft = true;
