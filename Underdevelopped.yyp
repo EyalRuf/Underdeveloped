@@ -111,14 +111,6 @@
             }
         },
         {
-            "Key": "5411a710-0c57-4357-8ea1-b832399b550b",
-            "Value": {
-                "id": "f3630f82-7295-4642-85ff-4b5d6c5cf4df",
-                "resourcePath": "objects\\obj_moving_box\\obj_moving_box.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "63555b1b-6200-4149-b47f-683a81368568",
             "Value": {
                 "id": "7bc32660-5e41-4066-a87e-6bfcd60d610f",

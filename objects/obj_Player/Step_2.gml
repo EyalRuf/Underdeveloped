@@ -1,13 +1,13 @@
 image_xscale = (lookingLeft ? -1 : 1) * IMAGE_SCALE;
 
-if (heroLanding) {
-	x = xprevious;
-} else {
+if (!heroLanding) {
 	// On ground
 	if (y == yprevious) {
 		if (x != xprevious) {
 			sprite_index = spr_Player_run;
+			image_speed = 1;
 		} else {
+			image_speed = 1;
 			sprite_index = spr_Player_idle;
 		}
 	} else {
@@ -16,6 +16,7 @@ if (heroLanding) {
 			sprite_index = spr_Player_jump;
 		} else if (y > yprevious && (y - yprevious > FALL_IGNORE_DISTANCE)) { // Going down
 			sprite_index = spr_Player_fall;
+			image_speed = 1;
 			if (fallingBegginingY == 0) {
 				fallingBegginingY = y;
 			}
