@@ -102,7 +102,7 @@
             "rangeMax": 10,
             "rangeMin": 0,
             "resourceFilter": 1023,
-            "value": "0",
+            "value": "spr_Player1",
             "varName": "lvl1JumpSprite",
             "varType": 5
         },
@@ -116,7 +116,7 @@
             "rangeMax": 10,
             "rangeMin": 0,
             "resourceFilter": 1023,
-            "value": "0",
+            "value": "spr_Player1",
             "varName": "lvl1LandSprite",
             "varType": 5
         },
@@ -130,7 +130,7 @@
             "rangeMax": 10,
             "rangeMin": 0,
             "resourceFilter": 1023,
-            "value": "0",
+            "value": "spr_Player1",
             "varName": "lvl1IdleSprite",
             "varType": 5
         },
@@ -144,7 +144,7 @@
             "rangeMax": 10,
             "rangeMin": 0,
             "resourceFilter": 1023,
-            "value": "0",
+            "value": "spr_Player1",
             "varName": "lvl1FallSprite",
             "varType": 5
         },
@@ -158,7 +158,7 @@
             "rangeMax": 10,
             "rangeMin": 0,
             "resourceFilter": 1023,
-            "value": "0",
+            "value": "spr_Player1",
             "varName": "lvl1RunSprite",
             "varType": 5
         },
@@ -172,7 +172,7 @@
             "rangeMax": 10,
             "rangeMin": 0,
             "resourceFilter": 1023,
-            "value": "0",
+            "value": "spr_Player_jump2",
             "varName": "lvl2JumpSprite",
             "varType": 5
         },
@@ -186,9 +186,9 @@
             "rangeMax": 10,
             "rangeMin": 0,
             "resourceFilter": 1023,
-            "value": "0",
+            "value": "spr_Player_landing2",
             "varName": "lvl2LandSprite",
-            "varType": 0
+            "varType": 5
         },
         {
             "id": "76d71a83-0403-42ed-82b9-206b6b79735a",
@@ -200,9 +200,9 @@
             "rangeMax": 10,
             "rangeMin": 0,
             "resourceFilter": 1023,
-            "value": "0",
+            "value": "spr_Player_idle2",
             "varName": "lvl2IdleSprite",
-            "varType": 0
+            "varType": 5
         },
         {
             "id": "a5ffca51-a94c-4ac6-88d8-55bb3a8901bd",
@@ -214,9 +214,9 @@
             "rangeMax": 10,
             "rangeMin": 0,
             "resourceFilter": 1023,
-            "value": "0",
+            "value": "spr_Player_fall2",
             "varName": "lvl2FallSprite",
-            "varType": 0
+            "varType": 5
         },
         {
             "id": "b93ed5ab-35ad-42e8-a9bd-c64846084f45",
@@ -228,9 +228,9 @@
             "rangeMax": 10,
             "rangeMin": 0,
             "resourceFilter": 1023,
-            "value": "0",
+            "value": "spr_Player_run2",
             "varName": "lvl2RunSprite",
-            "varType": 0
+            "varType": 5
         },
         {
             "id": "31aa289a-c624-41f4-ae5a-434c66d7d520",
@@ -242,9 +242,9 @@
             "rangeMax": 10,
             "rangeMin": 0,
             "resourceFilter": 1023,
-            "value": "0",
+            "value": "spr_Player_jump3",
             "varName": "lvl3JumpSprite",
-            "varType": 0
+            "varType": 5
         },
         {
             "id": "caac0dfd-0786-43f8-bf83-0a6f4cb229fa",
@@ -256,9 +256,51 @@
             "rangeMax": 10,
             "rangeMin": 0,
             "resourceFilter": 1023,
-            "value": "0",
-            "varName": "lvl3LandSPr",
-            "varType": 0
+            "value": "spr_Player_landing3",
+            "varName": "lvl3LandSprite",
+            "varType": 5
+        },
+        {
+            "id": "5e1dc479-d3ff-4e47-b4bd-4a2ae412c63e",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "spr_Player_idle3",
+            "varName": "lvl3IdleSprite",
+            "varType": 5
+        },
+        {
+            "id": "6d3bbcb5-1f41-4de5-9204-b4f6493a2090",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "spr_Player_fall3",
+            "varName": "lvl3FallSprite",
+            "varType": 5
+        },
+        {
+            "id": "9009909b-3a87-419a-88d9-719cf22caa2b",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "spr_Player_run3",
+            "varName": "lvl3RunSprite",
+            "varType": 5
         }
     ],
     "solid": false,

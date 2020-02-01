@@ -6,8 +6,8 @@ if(distance_to_object(obj_Player) < 200){
 
 
 if (hspeed > 0){
-	image_xscale = 1;
+	image_xscale = 2;
 }
 else if (hspeed < 0){
- image_xscale = -1;
+ image_xscale = -2;
 }

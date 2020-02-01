@@ -40,12 +40,11 @@ if (!heroLanding) {
 		isJumping = false;
 	
 		// Checking if fell from high enough for hero landing
-		if (fallingBegginingY != -1) {
+		if (!heroLanding && fallingBegginingY != -1) {
 			var distance = y - fallingBegginingY;
 			if (distance >= HERO_LANDING_DISTANCE) {
 				heroLanding = true;
-				sprite_index = spr_Player_landing;
-				image_speed = 1;
+				sprite_index = landSprite;
 				alarm_set(0, 40);
 			}
 			fallingBegginingY = -1;

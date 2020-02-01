@@ -4,19 +4,16 @@ if (!heroLanding) {
 	// On ground
 	if (y == yprevious) {
 		if (x != xprevious) {
-			sprite_index = spr_Player_run;
-			image_speed = 1;
+			if (sprite_index != runSprite) sprite_index = runSprite;
 		} else {
-			image_speed = 1;
-			sprite_index = spr_Player_idle;
+			if (sprite_index != idleSprite) sprite_index = idleSprite;
 		}
 	} else {
 		// Going up
 		if (y < yprevious && (yprevious - y > FALL_IGNORE_DISTANCE)) {
-			sprite_index = spr_Player_jump;
+			if (sprite_index != jumpSprite) sprite_index = jumpSprite;
 		} else if (y > yprevious && (y - yprevious > FALL_IGNORE_DISTANCE)) { // Going down
-			sprite_index = spr_Player_fall;
-			image_speed = 1;
+			if (sprite_index != fallSprite) sprite_index = fallSprite;
 			if (fallingBegginingY == 0) {
 				fallingBegginingY = y;
 			}
