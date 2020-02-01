@@ -1,8 +1,8 @@
 {
-    "id": "938ece80-bf22-4586-b466-69ac345e8cd8",
+    "id": "e81c45e7-718d-4c1f-bf42-41add1ad106b",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_collidable",
+    "name": "obj_AllEnemies",
     "eventList": [
         
     ],
