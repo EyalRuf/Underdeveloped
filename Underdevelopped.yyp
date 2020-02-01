@@ -143,6 +143,14 @@
             }
         },
         {
+            "Key": "9c1083f4-e08a-497c-9d4d-c23c6588ef71",
+            "Value": {
+                "id": "6ab483fb-6e23-4cd3-8a3b-1d7b83950c60",
+                "resourcePath": "rooms\\NEON\\NEON.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "aeb11c11-b34f-48ed-9381-b23e9313e9cb",
             "Value": {
                 "id": "78842a6f-ef5a-431d-836e-160154142db3",
@@ -204,14 +212,6 @@
                 "id": "b49a172a-ed1b-4310-ab8e-be2a7563a9b7",
                 "resourcePath": "views\\dd5fc2e9-266f-4b5f-a619-da56938135e9.yy",
                 "resourceType": "GMFolder"
-            }
-        },
-        {
-            "Key": "e2fb8c8d-fc30-4630-848b-d04a3d7d1acb",
-            "Value": {
-                "id": "7f474bf0-ac63-42f2-baed-c573eb7cffb9",
-                "resourcePath": "objects\\obj_Player1\\obj_Player1.yy",
-                "resourceType": "GMObject"
             }
         },
         {
