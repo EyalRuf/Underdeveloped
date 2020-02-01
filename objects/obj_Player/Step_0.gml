@@ -45,6 +45,7 @@ if (!heroLanding) {
 			if (distance >= HERO_LANDING_DISTANCE) {
 				heroLanding = true;
 				sprite_index = landSprite;
+				image_speed = 1;
 				alarm_set(0, 40);
 			}
 			fallingBegginingY = -1;

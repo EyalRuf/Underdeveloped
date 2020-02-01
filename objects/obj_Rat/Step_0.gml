@@ -7,12 +7,16 @@ if (place_meeting(x + hspeed, y, obj_collidable)) {
 //	hspeed = -hspeed;
 //}
 
-if (!place_meeting(x+32, y+20, obj_collidable) || !place_meeting(x-32, y+20, obj_collidable)) {
+if (!place_meeting(x+15, y+20, obj_collidable) || !place_meeting(x-15, y+20, obj_collidable)) {
 	hspeed = -hspeed;
 }
-if (hspeed > 0){
-	image_xscale = 2;
+if (hspeed > 0) {
+	image_xscale = 1;
 }
 else if (hspeed < 0){
- image_xscale = -2;
+ image_xscale = -1;
+}
+
+if (place_meeting(x, y + sprite_height, obj_collidable)) {
+	while(!place_meeting(x, y + 1, obj_collidable)) y ++;
 }

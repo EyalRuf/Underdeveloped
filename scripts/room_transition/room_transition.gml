@@ -5,7 +5,7 @@ if (global.roomCounter == global.expansionLvl) {
 		room_goto(obj_GameManager.BOSS_ROOM_IND);
 	} else {
 		// UPGRADE ROOM
-		room_goto(0);
+		room_goto(obj_GameManager.UPGRADE_ROOM_IND);
 		global.roomCounter = 0;
 	}
 } else {

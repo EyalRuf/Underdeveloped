@@ -1,6 +1,6 @@
-IMAGE_SCALE = 2.5;
+IMAGE_SCALE = 1;
 MAX_GRAV = 10;
-HERO_LANDING_DISTANCE = 300;
+HERO_LANDING_DISTANCE = 100;
 FALL_IGNORE_DISTANCE = 1;
 
 friction = 0.5;
@@ -15,8 +15,8 @@ heroLanding = false;
 grav = 0.5;
 hsp = 0;
 vsp = 0;
-jumpspeed = 14;
-movespeed = 8;
+jumpspeed = 12;
+movespeed = 5;
 lasDir = 0;
 reload = 16;
 cooldown = 0;
