@@ -1,3 +1,5 @@
 /// @description Insert description here
 // You can write your code in this editor
-instance_destroy(self);
+hP -= 5;
+if(hP ==0 ){
+instance_destroy(self);}

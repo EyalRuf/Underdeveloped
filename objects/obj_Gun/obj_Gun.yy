@@ -1,23 +1,23 @@
 {
-    "id": "e81c45e7-718d-4c1f-bf42-41add1ad106b",
+    "id": "a86ad07d-64b3-499f-b1f9-ab09ebf2153e",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_AllEnemies",
+    "name": "obj_Gun",
     "eventList": [
         {
-            "id": "a16b9c37-18d5-4c60-83dd-a9e0ec38771f",
+            "id": "965026e2-11a0-4a5a-8347-8f62cfe8ba3e",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
-            "eventtype": 0,
-            "m_owner": "e81c45e7-718d-4c1f-bf42-41add1ad106b"
+            "eventtype": 3,
+            "m_owner": "a86ad07d-64b3-499f-b1f9-ab09ebf2153e"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
-    "parentObjectId": "98aa07f4-cc99-4db2-a05a-fd147d5552da",
+    "parentObjectId": "00000000-0000-0000-0000-000000000000",
     "persistent": false,
     "physicsAngularDamping": 0.1,
     "physicsDensity": 0.5,
@@ -32,7 +32,7 @@
     "physicsShapePoints": null,
     "physicsStartAwake": true,
     "properties": null,
-    "solid": true,
-    "spriteId": "00000000-0000-0000-0000-000000000000",
+    "solid": false,
+    "spriteId": "b36ec5ae-aaa3-4c61-b2d4-dc339080d783",
     "visible": true
 }
