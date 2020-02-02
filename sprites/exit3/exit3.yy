@@ -2,7 +2,7 @@
     "id": "77f371ca-7ce2-47d5-8be2-b1b2c4b0a393",
     "modelName": "GMSprite",
     "mvc": "1.12",
-    "name": "exit21",
+    "name": "exit3",
     "For3D": false,
     "HTile": false,
     "VTile": false,

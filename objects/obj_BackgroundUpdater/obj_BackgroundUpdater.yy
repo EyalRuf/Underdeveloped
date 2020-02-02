@@ -1,0 +1,81 @@
+{
+    "id": "a463d0c5-a8a7-46cc-b18f-9befb3848cdd",
+    "modelName": "GMObject",
+    "mvc": "1.0",
+    "name": "obj_BackgroundUpdater",
+    "eventList": [
+        {
+            "id": "7a2e00f0-eb0d-47f7-adfc-8ea9c6407f51",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "a463d0c5-a8a7-46cc-b18f-9befb3848cdd"
+        }
+    ],
+    "maskSpriteId": "00000000-0000-0000-0000-000000000000",
+    "overriddenProperties": null,
+    "parentObjectId": "00000000-0000-0000-0000-000000000000",
+    "persistent": false,
+    "physicsAngularDamping": 0.1,
+    "physicsDensity": 0.5,
+    "physicsFriction": 0.2,
+    "physicsGroup": 0,
+    "physicsKinematic": false,
+    "physicsLinearDamping": 0.1,
+    "physicsObject": false,
+    "physicsRestitution": 0.1,
+    "physicsSensor": false,
+    "physicsShape": 1,
+    "physicsShapePoints": null,
+    "physicsStartAwake": true,
+    "properties": [
+        {
+            "id": "633d1982-2985-478c-9e3f-e2c5bb8ac664",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "spr_bg_lvl11",
+            "varName": "art1Background",
+            "varType": 5
+        },
+        {
+            "id": "07106613-185b-4b89-a5ed-334118ab19f7",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "spr_bg_lvl12",
+            "varName": "art2Background",
+            "varType": 5
+        },
+        {
+            "id": "7c0b4cee-1710-4c4b-a8f0-b304a9e91ea8",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "spr_bg_lvl13",
+            "varName": "art3Background",
+            "varType": 5
+        }
+    ],
+    "solid": false,
+    "spriteId": "00000000-0000-0000-0000-000000000000",
+    "visible": true
+}
