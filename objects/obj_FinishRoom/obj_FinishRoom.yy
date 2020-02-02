@@ -30,7 +30,7 @@
             "mvc": "1.0",
             "objectId": "98aa07f4-cc99-4db2-a05a-fd147d5552da",
             "propertyId": "63f9254f-14b0-486c-847e-5e6b25dd241d",
-            "value": "exit21"
+            "value": "exit3"
         }
     ],
     "parentObjectId": "98aa07f4-cc99-4db2-a05a-fd147d5552da",

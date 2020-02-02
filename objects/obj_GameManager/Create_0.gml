@@ -6,11 +6,12 @@ BUG_MAX_LVL = 2;
 BOSS_ROOM_IND = 17;
 UPGRADE_ROOM_IND = 0;
 
-global.artLvl = 1;
+global.artLvl = 2;
 global.difficultyLvl = 0;
 global.bugLvl = 0;
-global.expansionLvl = 3;
+global.expansionLvl = 2;
 global.roomCounter = 0;
 global.allUpgradesReached = false;
+global.money = 0;
 
 randomize();
