@@ -6,8 +6,8 @@
     "children": [
         "c44fce9c-4772-48be-8052-ee0fd5a68e3e",
         "80274acb-0713-46f8-8cef-6406326749d7",
-        "d0057d69-0014-4a33-8c52-b18cbff4914c",
-        "938ece80-bf22-4586-b466-69ac345e8cd8"
+        "938ece80-bf22-4586-b466-69ac345e8cd8",
+        "44a6c7a1-a3bc-4e4b-8fdd-08638ebcd474"
     ],
     "filterType": "GMObject",
     "folderName": "Ground\/Walls",

@@ -46,3 +46,5 @@ switch(global.artLvl) {
 		break;
 	}
 }
+
+if (room != obj_GameManager.UPGRADE_ROOM_IND) spawn_enemies();
