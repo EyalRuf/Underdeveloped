@@ -18,9 +18,16 @@ if (global.difficultyLvl == 2){
 
 
 for (i = 0; i < ratNumber; i++){
+	
     var inst = instance_find(obj_Platforms, irandom(instance_number(obj_Platforms) - 1));
-    instance_create_layer(inst.x, inst.y, "Instances", obj_Rat);
+    with(obj_Player){
+		if (distance_to_point(inst.x, inst.y)  < 20) {
+		i--;
+	} else 
+		instance_create_layer(inst.x, inst.y, "Instances", obj_Rat);
     
+	}
+	
 }
 
 for (i = 0; i < batNumber; i++){
