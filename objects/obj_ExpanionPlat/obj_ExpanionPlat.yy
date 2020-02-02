@@ -5,13 +5,23 @@
     "name": "obj_ExpanionPlat",
     "eventList": [
         {
-            "id": "804b84bb-1692-4517-a9dc-ab89878028b4",
+            "id": "45a6f874-7490-40d4-9c61-22f600868761",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 3,
+            "enumb": 64,
+            "eventtype": 8,
+            "m_owner": "510d3f4e-9732-424a-8c27-1d67ffea821d"
+        },
+        {
+            "id": "092c32de-b8f6-453e-917a-e3aec7445694",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 13,
+            "eventtype": 10,
             "m_owner": "510d3f4e-9732-424a-8c27-1d67ffea821d"
         }
     ],

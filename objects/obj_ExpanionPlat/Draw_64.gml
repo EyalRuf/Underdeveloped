@@ -1,0 +1,1 @@
+draw_text(x + sprite_width / 2, y - 20, obj_GameManager.EXPANSION_COSTS[global.expansionLvl - 1])

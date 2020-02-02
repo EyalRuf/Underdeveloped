@@ -7,7 +7,7 @@
         "3c50ad8d-14c9-4b62-9d39-2e2a32e8deaa"
     ],
     "filterType": "GMSprite",
-    "folderName": "Upgrades",
+    "folderName": "Interface",
     "isDefaultView": false,
     "localisedFolderName": ""
 }
