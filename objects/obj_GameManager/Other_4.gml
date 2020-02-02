@@ -1,1 +1,1 @@
-if (room != UPGRADE_ROOM_IND) spawn_enemies()
+if (room != UPGRADE_ROOM_IND) spawn_enemies();
